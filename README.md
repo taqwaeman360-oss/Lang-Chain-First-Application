@@ -47,4 +47,4 @@ prompts.py: Contains a dictionary of personas and the logic to inject user input
 
 main.py: Initializes the ChatOpenAI model and creates a chain using the pipe (|) operator to connect the prompt and the model.
 
-Does this README format help clarify how to structure your submission for your AI Engineering track?
+
