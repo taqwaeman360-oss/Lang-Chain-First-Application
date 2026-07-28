@@ -20,7 +20,7 @@ pip installed
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/taqwaeman360
 cd your-repo-name
 Install dependencies:
 
