@@ -1,3 +1,4 @@
+## Lang-Chain-First-Application
 A simple, modular AI assistant built using LangChain. This project demonstrates how to use Prompt Templates and LCEL (LangChain Expression Language) to create dynamic, persona-based AI interactions.
 
 🚀 Features
